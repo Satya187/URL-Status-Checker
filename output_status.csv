@@ -1,0 +1,2 @@
+URL,Status
+https://www.googlashgdasu.com,"Error: HTTPSConnectionPool(host='www.googlashgdasu.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x00000209632726B0>: Failed to resolve 'www.googlashgdasu.com' ([Errno 11001] getaddrinfo failed)""))"
